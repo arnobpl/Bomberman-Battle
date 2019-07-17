@@ -1,0 +1,71 @@
+Bomberman Battle v1
+--------------------
+
+Programmer
+---------------
+Arnob Paul
+
+Artificial Intelligence Scripting
+---------------
+Arnob Paul
+
+Menu Design
+---------------
+Arnob Paul
+
+Documentation
+---------------
+Arnob Paul
+
+Graphics/Sprite Sheet
+---------------
+Mostly taken from:
+Super Bomberman 1/2 (1993/1994) by Hudson Soft
+Neo Bomberman (1997) by Hudson Soft
+Additional processing:
+Arnob Paul
+
+Font Sheet
+---------------
+Mostly taken from:
+Blazing Star (1998) by SNK
+Few taken from:
+DK King of Swing (2005) by Nintendo
+Additional processing:
+Arnob Paul
+
+Menu Music
+---------------
+Taken from:
+Character Selection music
+of Neo Bomberman (1997) by Hudson Soft
+
+Game Music
+---------------
+Taken from:
+"Monsta's Theme"
+of Puzzle Bobble 2 (1995) by Taito Corporation
+
+Additional Sound
+---------------
+Mostly taken from:
+Neo Bomberman (1997) by Hudson Soft
+Additional processing:
+Arnob Paul
+
+Special Thanks
+---------------
+Arpon Paul
+Fazle Rabbi Rahat
+
+Director
+---------------
+Arnob Paul
+
+For any feedback, suggestion or complain
+---------------
+https://arnobpl.github.io
+arnobpl@gmail.com
+
+
+This game does not have any age-restriction and is suitable for all ages.
